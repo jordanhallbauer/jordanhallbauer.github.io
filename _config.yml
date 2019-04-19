@@ -1,4 +1,4 @@
-title:             Jordan Hallbauer
+title:             #Jordan Hallbauer#
 email:             jordanhallbauer@ucsb.edu
 description:       welcome i guess!!
 author:            Jordan Hallbauer
@@ -11,7 +11,7 @@ collections:
     permalink: /:name
 
 # Social Profiles
-twitter_username:  SBootstrap
+twitter_username:  jordistheword
 github_username:   BlackrockDigital
 facebook_username: StartBootstrap
 
