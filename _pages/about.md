@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me......
-description: This is what I do.
+title: Publications
+description: Works
 background: '/img/bg-about.jpg'
 ---
 
-graduate student at UCSB 
+to be updated
