@@ -4,6 +4,7 @@ title:  "CV"
 subtitle: "Summary of work and experience"
 background: '/img/posts/01.jpg' # notice how the image referenced is in your project's /img/posts/ folder.
 ---
+
 # SUMMARY:
 I’m a graduate student in the Latin American and Iberian Studies program at UC, Santa Barbara with an undergraduate background in English Literature, International Studies, Spanish, and Women’s, Gender and Sexuality Studies.
 
