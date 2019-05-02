@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About Me......
-description: This is what I do.
+title: Research
+description: past research projects
 background: '/img/bg-about.jpg'
 ---
-
