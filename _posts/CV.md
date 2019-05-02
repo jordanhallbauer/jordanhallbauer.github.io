@@ -40,14 +40,12 @@ Co-writing a chapter with Dr. Tani Sebro (sebroth@miamioh.edu) that will be feat
 # EDUCATION:
 Green High School (Uniontown, OH)
         	High School Diploma, graduated with Honors in June 2014
-
 Miami University (Oxford, OH)
         	International Studies Major, with a concentration in Global Human Rights and Justice
         	English Major, with a concentration in Literature
         	Spanish Minor
         	Women’s, Gender and Sexuality Studies Minor
         	Bachelor's Degree, graduated with Honors in May 2018
-
 UC, Santa Barbara (Santa Barbara, CA)
 	Graduate student in the Latin American and Iberian Studies program
 	TA for LAIS 10, Fall 2018
