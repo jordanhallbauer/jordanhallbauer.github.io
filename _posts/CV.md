@@ -1,96 +1,42 @@
 ---
 layout: page # if this were a page, you would write "page" instead. They layouts are subtly different. Try it to see what happens.
-title:  "Example post"
-subtitle: "Start here"
-date:   2019-04-17 23:45:13 -0400
-author:  # you can get rid of this entire line in your own blog posts, and the page will display the name of the site's owner, taken from the _config.yml file.
+title:  "CV"
+subtitle: "Summary of work and experience"
 background: '/img/posts/01.jpg' # notice how the image referenced is in your project's /img/posts/ folder.
 ---
+# SUMMARY:
+I’m a graduate student in the Latin American and Iberian Studies program at UC, Santa Barbara with an undergraduate background in English Literature, International Studies, Spanish, and Women’s, Gender and Sexuality Studies.
 
-The first thing you should do is to open this entire project folder in AtoM, and to open the file called README.md. After you follow those instructions, return here both in your browser and in AtoM (you can find the file in the `_posts` folder).
+# RELATED EXPERIENCE:
+## Service-Learning Semester Abroad ……………. Jan. 2016 – May 2016 / Granada, Nicaragua
+Study Spanish and Latin American history, politics, and health in Granada, Nicaragua for four months. Volunteer at a rural public school three times a week to teach English and tutor local students.
+## Undergraduate Summer Scholars Award ….. July 2017 - August 2017 / Chiang Mai, Thailand
+Received a research grant to work with Dr. Sebro in Thailand. Helped administer ethnographic interviews in the Koung Jor refugee camp and co-presented our research (titled “The Touristic Mobilities of Migrants in the Thai-Burma Border-Zone”) at the 10th International Convention of Asia Scholars in Chiang Mai, Thailand. Completed 45 hours of intensive Thai language study at Chiang Mai University.
 
----
+## Inklings Writing Director & Editorial Board Member.... Sept. 2015 - May 2018 / Oxford, OH
+Evaluate and discuss original literature and art submitted by undergraduate students with fellow board members to determine which pieces constitute publication in our magazine. As Writing Director, I render anonymous the submitted pieces for board consideration and communicate with contributors. As an executive board member, I engage with fellow board members to discuss the technical and thematic attributes of literary submissions, and to offer interpretations of submitted work.
 
-Below is a brief reminder of the Markdown syntax, from [one of the GitHub guides](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
+## TA for “Introduction to Latin American and Iberian Studies” (LAIS 10) .. Fall 2018 / UCSB
+Attend lectures, lead two discussion sections, prepare discussion section weekly plans, correspond daily via email with students and the professor, hold regular office hours for students. The material in this class explores the broad history of Latin American regions and cultures from pre-colonial times until present.
+# RELEVANT WORK:
+## “The Touristic Mobilities of Migrants: a Comparative Analysis of Nicaragua and Myanmar”
+Co-writing a chapter with Dr. Tani Sebro (sebroth@miamioh.edu) that will be featured in the volume The Geopolitics of Tourism (Mostafanezhad, Norum, Córdoba). The book will feature a range of studies examining the imaginaries, affects, and infrastructures of geopolitical tourism. The chapter written by Dr. Sebro and I utilizes ethnographic data from our work in Thailand and in Nicaragua to create a conceptual argument that seeks to decolonize the category of ‘tourist.’ We do this by identifying the racialized language which often refers to people as ‘migrants,’ ‘expats,’ or ‘aliens’ rather than as ‘tourists,’ and we request a more just and inclusive grammar of mobility. Pending publication in 2019.
+# WORK HISTORY:
+## Kofenya Coffee (Oxford, OH) …………………………. Barista / May 2015 - May 2018
+## MU Women’s Center (Oxford, OH) ………Intern, Co-editor of The Fem / Fall 2016 - May 2018
+	Organize programs and events centered around promoting intersectional social justice on Miami University’s campus. Work as a co-editor of the Women’s Center’s annual publication The Femellectual to give a platform to creative fiction and nonfiction work submitted by students which bring visibility to issues concerning gender identity, racial injustice, and economic injustice.
+# EDUCATION:
+Green High School (Uniontown, OH)
+        	High School Diploma, graduated with Honors in June 2014
 
-# Headers:
+Miami University (Oxford, OH)
+        	International Studies Major, with a concentration in Global Human Rights and Justice
+        	English Major, with a concentration in Literature
+        	Spanish Minor
+        	Women’s, Gender and Sexuality Studies Minor
+        	Bachelor's Degree, graduated with Honors in May 2018
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-
-
-# Emphasis:
-
-*This text will be italic*
-_This will also be italic_
-**This text will be bold**
-__This will also be bold__
-*You **can** combine them*
-
-# Block quotations
-
-Below is a block quotation:
-> Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo.
-
-# Lists
-## Unordered:
-* Item 1
-* Item 2
- * Item 2a
- * Item 2b
-
-## Ordered:
-1. Item 1
-2. Item 2
-3. Item 3
- * Item 3a
- * Item 3b
-
-# Images:
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
-(The bit between the square brackets becomes the "Alt Text", or the text that appears when you hover over an image. Notice how the image source [the bit in square brackets] can reference a folder in your project or any image on the internet.)
-
-# Links
-[GitHub](http://github.com) <- You put the text of the link in the square brackets, and the URL in parentheses.
-
-
-# Backslash escapes
-If you would like to display a character that would otherwise be interpreted by Markdown to indicate formatting, you can prefase it with a backslash `\`, e.g. \*literal asterisks\*
-
-# Tables
-You can create tables by assembling a list of words and dividing them with hyphens - (for the first row),
-and then separating each column with a pipe | :
-
-First Header | Second Header | Third Header
------------- | ------------- | ---
-Content cell 1 | Content cell 2 | Content cell 3
-Content cell 4 | Content cell 5 | Content cell 6
-
-
----
-
-These are most of the formatting options built into Jekyll, but you might want to do more specialised things. For instance, you might want to insert a picture aligned to one side of the page. Or you might like to insert a map from Mapbox. For this you will need to use HTML. We will cover this in greater detail later on. For now, [here is an excellent guide to HTML](https://www.w3schools.com/html/).
-
-For now, here is a Mapbox map in a thing called an [iframe](https://www.w3schools.com/html/html_iframe.asp):
-
-<iframe src="https://api.mapbox.com/styles/v1/juancobo/cjs11m0to0avh1fqj3r9nhjg8.html?fresh=true&title=true&access_token=pk.eyJ1IjoianVhbmNvYm8iLCJhIjoibUZtUDNvVSJ9.LbmhhDxGc4BTb7G2JpKlZA#9.9/5.421206/-73.382440/0" width="100%" height ="300px" frameborder="0"></iframe>
-
-And an image, for which I've specified parameters to determine how it should appear:
-
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
-
-Another useful bit of HTML is `<br>` for a line break.
-
-Notice how the above is in a code block outlined by a grave accent ( \` ). That tells Markdown not to interpret it, but to display it exactly as you've typed it. You can also enclose entire lines by placing three accent marks (\`\`\`) above and below the lines in question.
-
-For instance, if I wanted the page to display the code for the iframe above rather than render it, I would do this:
-
-
-`<iframe src="https://api.mapbox.com/styles/v1/juancobo/cjs11m0to0avh1fqj3r9nhjg8.html?fresh=true&title=true&access_token=pk.eyJ1IjoianVhbmNvYm8iLCJhIjoibUZtUDNvVSJ9.LbmhhDxGc4BTb7G2JpKlZA#9.9/5.421206/-73.382440/0" width="100%" height ="500px" frameborder="0"></iframe>`
-
-Or this:
-```
-<iframe src="https://api.mapbox.com/styles/v1/juancobo/cjs11m0to0avh1fqj3r9nhjg8.html?fresh=true&title=true&access_token=pk.eyJ1IjoianVhbmNvYm8iLCJhIjoibUZtUDNvVSJ9.LbmhhDxGc4BTb7G2JpKlZA#9.9/5.421206/-73.382440/0" width="100%" height ="500px" frameborder="0"></iframe>
-```
+UC, Santa Barbara (Santa Barbara, CA)
+	Graduate student in the Latin American and Iberian Studies program
+	TA for LAIS 10, Fall 2018
+	Master’s Degree, will graduate in June 2020
