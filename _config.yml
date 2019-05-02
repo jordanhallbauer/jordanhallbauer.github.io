@@ -1,9 +1,9 @@
 title:             Jordan Hallbauer
 email:             jordanhallbauer@ucsb.edu
-description:       # welcome i guess!! # 18 April 2019 ## HIST 295 LA
+description:       This is a site for storing and sharing my information and projects past and present, welcome!
 author:            Jordan Hallbauer
-baseurl:           "" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
-url:               "https://jordanhallbauer.github.io/" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
+baseurl:          "/jordanhallbauer.github.io"
+url:              "localhost:4000"
 
 collections:
   pages:
@@ -11,9 +11,9 @@ collections:
     permalink: /:name
 
 # Social Profiles
-twitter_username:  jordistheword
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  HallbauerJordan
+github_username:   jordanhallbauer
+facebook_username: Jordan Hallbauer
 
 # Build settings
 markdown:          kramdown
