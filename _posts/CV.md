@@ -2,6 +2,7 @@
 layout: page # if this were a page, you would write "page" instead. They layouts are subtly different. Try it to see what happens.
 title:  "CV"
 subtitle: "Summary of work and experience"
+date:  2019-05-1
 background: '/img/posts/01.jpg' # notice how the image referenced is in your project's /img/posts/ folder.
 ---
 
