@@ -5,4 +5,3 @@ description: This is what I do.
 background: '/img/bg-about.jpg'
 ---
 
-graduate student at UCSB 
