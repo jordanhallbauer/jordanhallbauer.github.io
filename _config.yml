@@ -3,7 +3,7 @@ email:             jordanhallbauer@ucsb.edu
 description:       This is a site for storing and sharing my information and projects past and present, welcome!
 author:            Jordan Hallbauer
 baseurl:          "/jordanhallbauer.github.io"
-url:              "localhost:4000"    
+url:              "localhost:4000"
 
 
 collections:
