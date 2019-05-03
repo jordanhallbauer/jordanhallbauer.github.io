@@ -12,7 +12,8 @@ Below are pieces of my poetry, prose, and mixed media works that have been publi
 
 
 
-**_Early march and a light leak_**
+**_Early march and a light leak_** <br>
+*spring 2018*
 
 >eyes brown all winter flicker to green in the sun. i flicker into a feeling like warm water, something easier <br>
 than in months. a light leak, i think. <br>
