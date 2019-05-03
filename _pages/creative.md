@@ -4,7 +4,7 @@ title:  "Creative Works"
 subtitle: "Previously published poetry & art"
 date:   2019-04-17 23:45:13 -0400
 author:  # you can get rid of this entire line in your own blog posts, and the page will display the name of the site's owner, taken from the _config.yml file.
-background: '/img/blanket.jpg'
+background: '/img/bedroom.jpg'
 ---
 
 Below are pieces of my poetry, prose, and mixed media works that have been published in various lit & art mags.<br>
