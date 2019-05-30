@@ -3,7 +3,7 @@ email:             jordanhallbauer@ucsb.edu
 description:       Updates on Nicaraguan social movements and collection of protest literature
 author:            Jordan Hallbauer
 baseurl:          "/jordanhallbauer.github.io"
-url:              "http://127.0.0.1:4000/jordanhallbauer.github.io/"
+url:              "127.0.0.1:4000/jordanhallbauer.github.io/"
 
 
 collections:
