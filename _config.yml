@@ -23,6 +23,9 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-scholar
 ---
 
 *Photo by Alfredo Zuniga, published in "A Month of Anti-Government Protest in Nicaragua," The Atlantic. 31 May 2018.*
+theme: "ed."
