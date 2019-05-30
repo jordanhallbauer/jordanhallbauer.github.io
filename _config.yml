@@ -1,9 +1,9 @@
-title:             Jordan Hallbauer
+title:             Contemporary Poetics of Nicaragua
 email:             jordanhallbauer@ucsb.edu
-description:       This is a site for storing and sharing my information and projects past and present, welcome!
+description:       Updates on Nicaraguan social movements and collection of protest literature
 author:            Jordan Hallbauer
 baseurl:          "/jordanhallbauer.github.io"
-url:              "localhost:4000"
+url:              "http://127.0.0.1:4000/jordanhallbauer.github.io/"
 
 
 collections:
