@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About my research & this site
+title: Description of my research & this site
 description: About...
-background: '/img/pineapple.jpg'
+background: '/img/Nicaflags.jpg'
 ---
 
 I'm a graduate student at UC Santa Barbara in the Latin American and Iberian Studies program. I received my Bachelor's Degree from Miami University (Ohio) in English Literature and International Studies, with minors in Women's, Gender, and Sexuality Studies and Spanish. <br>
@@ -14,4 +14,6 @@ This site operates as a space to post updates about current activist work and po
 **Spring 2019 contact information... <br>
 Office hours: 11 am - 1 pm
 Office location: South Hall 4431, cubicle K <br>
-TA for CHST/LING 187, Section F 9 am and F 10 am**
+TA for CHST/LING 187, Section F 9 am and F 10 am** <br>
+
+*Photo by Alfredo Zuniga, published in "A Month of Anti-Government Protest in Nicaragua," The Atlantic. 31 May 2018.*
