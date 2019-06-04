@@ -7,8 +7,8 @@ group :jekyll_plugins do
   gem "jekyll-paginate", "~> 1.1.0"
   gem "html-proofer"
   gem "ed."
-  gem 'jekyll-include-cache'
-  gem 'jekyll-scholar'
+  gem "jekyll-scholar"
+  gem "jekyll-include-cache"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
