@@ -7,43 +7,44 @@
 // Below you can add bits of CSS to override the default settings. I've included a couple to get you started. Just remove the "//" from the beginning of each line to activate it, and refresh your browser. For more information on CSS and how to use it, see https://www.w3schools.com/css/.
 
 // To change the fonts for the headings across the site:
-// h1, h2, h3, h4, h5 {
-//  font-family: "sans-serif";
-// font-size: 20px;
-//    color: #4CAF50
-// }
+h1, h2, h3, h4, h5 {
+font-family: Times;
+font-size: 15px;
+color: black;
+}
 
 // If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
 
 
 // To change the fonts for the main site title:
-/*
 header.masthead .page-heading h1, header.masthead .site-heading h1 {
-    font-family: Palatino, Times, serif;
+font-family: Times, serif;
+font-weight: normal;
+font-style: italic;
+font-size: 50px;
+color: white;
+}
+
+
+// To change the fonts for the main site navigation bar:
+
+#mainNav .navbar-brand {
+    font-family: Times, serif;
     font-weight: normal;
     font-style: italic;
 }
-*/
 
-// To change the fonts for the main site navigation bar:
-/*
-#mainNav .navbar-brand {
-    font-family: Palatino, Times, serif;
-    font-weight: normal;
-    font-style: normal;
-}
-*/
 
 // To customise the navigation bar links:
-/*
+
 #mainNav .navbar-nav > li.nav-item > a {
-    font-size: 50px;
+    font-size: 15px;
     font-weight: 800;
     letter-spacing: 1px;
     text-transform: lowercase;
-    color: #4CAF50;
+    color: white;
 }
-*/
+
 
 // To customise the way that tables look:
 
